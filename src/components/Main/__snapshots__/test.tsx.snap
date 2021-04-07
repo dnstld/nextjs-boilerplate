@@ -48,14 +48,14 @@ exports[`<Main /> should render the heading 1`] = `
   class="c0"
 >
   <img
-    alt="Imagem de um átomo e React Avançado escrito ao lado"
+    alt="Some alt"
     class="c1"
     src="/img/logo.svg"
   />
   <h1
     class="c2"
   >
-    React Avançado
+    ReactJS
   </h1>
   <h2
     class="c3"
@@ -63,7 +63,7 @@ exports[`<Main /> should render the heading 1`] = `
     TypeScript, ReactJS, NextJS e Styled Compomponents
   </h2>
   <img
-    alt="Imagem de um desenvolvedor codando"
+    alt="Some alt"
     class="c4"
     src="/img/hero-illustration.svg"
   />

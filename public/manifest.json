@@ -1,6 +1,6 @@
 {
-  "name": "ReactJS - Boilerplate",
-  "short_name": "React Boilerplate",
+  "name": "NextJS - Boilerplate",
+  "short_name": "Next Boilerplate",
   "icons": [
     {
       "src": "/img/icon-192.png",
